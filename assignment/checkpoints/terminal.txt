@@ -1,21 +1,23 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
-
+ls
 # 2 - What is the command for changing directories?
-
+cd
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-
+cd ..
 # 4 - What is a quick way to create a new folder?
-
+mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+For an empty folder, you'd get nothing in return, just another line to enter a new command.
+In a folder containing items, it would list items horizontally from left to right.
 # 6 - What is a quick way to create a new file?
-
+touch
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-
+To check on and see what files have been changed
 # 9 - What does the command 'git add .' do?
-
+Adds all changed files to be queued up for committing
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push
